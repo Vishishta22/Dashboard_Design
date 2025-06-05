@@ -34,10 +34,6 @@ The dashboard includes:
 - **PPT Summary**: View `Superstore_Sales_Dashboard_Presentation.pptx` for key insights and recommendations.
 - **Dataset**: Use `superstore_dataset2011-2015.csv` to reproduce the analysis.
 
-## Screenshot
-**Superstore Sales Dashboard**
-![Dashboard Screenshot](Screenshots/Dashboard_Screenshot.png)
-
 ## Tools Used
 - Power BI Desktop for creating the dashboard.
 - Microsoft PowerPoint for the summary.
