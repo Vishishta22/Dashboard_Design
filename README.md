@@ -37,7 +37,7 @@ The dashboard includes:
 ## Tools Used
 - Power BI Desktop for creating the dashboard.
 - Microsoft PowerPoint for the summary.
-- Dataset: `superstore.csv`.
+- Dataset: `superstore_dataset2011-2015.csv`.
 
 ## Date and Time of Submission
 - Submitted on: 08:00 PM IST, Thursday, June 05, 2025.
